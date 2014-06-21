@@ -1,5 +1,5 @@
  
-## Functions aimed at accelerating the calculation of inverse matrix by first chaing them in
+## Functions aimed at accelerating the calculation of inverse matrix by first storing them in
 ## memory
 
 ## Creates a special "matrix" object that can cache its inverse
